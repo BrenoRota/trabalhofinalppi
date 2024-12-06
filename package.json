@@ -1,0 +1,26 @@
+{
+  "name": "trabalhofinalppi",
+  "version": "1.0.0",
+  "description": "Trabalho final de Programacao para internet",
+  "main": "trabalhofinalppi.js",
+  "scripts": {
+    "start": "nodemon trabalhofinalppi.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrenoRota/trabalhofinalppi.git"
+  },
+  "author": "Breno Rota de Carvalho Lobo Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrenoRota/trabalhofinalppi/issues"
+  },
+  "homepage": "https://github.com/BrenoRota/trabalhofinalppi#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "nodemon": "^3.1.7"
+  }
+}
